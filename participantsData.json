@@ -1,0 +1,42 @@
+{
+    "events": {
+      "55845-123": {
+        "id": 123,
+        "group": null,
+        "participants": [
+          {
+            "id": 123,
+            "uid": "55845-123",
+            "group_id": null,
+            "is_contact_person": 0,
+            "email": "care@lyyti.fi",
+            "email_blocked": 0,
+            "firstname": "Test",
+            "lastname": "Participant",
+            "lang": "fi",
+            "status": "reactedyes"
+            
+          }
+        ]
+      },
+      "55845-12345": {
+        "id": 12345,
+        "group": null,
+        "participants": [
+          {
+            "id": 12345,
+            "uid": "55845-12345",
+            "group_id": null,
+            "is_contact_person": 0,
+            "email": "care@lyyti.fi",
+            "email_blocked": 0,
+            "firstname": "Test",
+            "lastname": "Participant",
+            "lang": "fi",
+            "status": "reactedyes"
+            
+          }
+        ]
+      }
+    }
+  }
